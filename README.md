@@ -14,3 +14,5 @@ You will have to go to your CMD and run 'pip install numpy sounddevice webrtcvad
 Then download VOSK from https://alphacephei.com/vosk/models and select the model named 'vosk-model-small-en-us-0.15' it is 40 mb
 
 Once these are done and youve opened the python file open the settings and set everything correctly. ensure you run the vosk test and set the mic.
+
+The wake word can be set to anything you want.
